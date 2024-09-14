@@ -6,7 +6,7 @@ This project automates the process of purchasing a product from an eCommerce web
 * Setup WebDriver
 * Navigate to the website
 * Image gallery navigation
-* Set Shipping date
+* Set shipping date
 * Quantity adjustment
 * Checkout process
 * Billing details
